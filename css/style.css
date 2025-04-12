@@ -1,0 +1,54 @@
+.main-contant{
+    display: flex;
+    justify-content: space-around;
+   
+}
+
+
+
+.card {
+    box-shadow: 0 4px 8px 0 black;
+    transition: 0.3s;
+    width: 40%;
+    margin: 5px;
+    
+    
+  }
+  
+  
+  .container {
+    padding: 2px 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around ;
+    margin-top: 1px
+    
+    
+  }
+  .second{
+    font-size: 17px;
+    color: #1a6692;
+    
+  }
+  .img{
+    vertical-align: middle;
+    border-style: none;
+    width: 80%;
+    height: 40px;
+  }
+  .end{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 17px;
+  }
+
+  .review{
+    color: red;
+  }
+.closing-star{
+    color: red;
+}
+p{
+    text-align: center;
+    padding: 4px;
+}
